@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to prateekrathaur slide!"
 ---
-I'm inputting this line for the assignment. Trial #1
+Making this update from Visual Studio Code.
 Use the left arrow to go back!
